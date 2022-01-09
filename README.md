@@ -1,6 +1,6 @@
 ### Hi! 👋  I'm George Walker, a Web Developer
 
-#### Overview
+#### 👨 Overview
 
 My name is George Walker and I'm an aspiring software developer. I'm from England, living in London and currently work in the construction industry. My focus is full stack web developement using Javascript. 
 
