@@ -4,7 +4,7 @@
 
 My name is George Walker and I'm an aspiring software developer. I'm from England, living in London and currently work in the construction industry. My focus is full stack web developement using Javascript. 
 
-#### 🔧 Languages
+#### 🔧 Skills
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
