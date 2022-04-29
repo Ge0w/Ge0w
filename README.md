@@ -7,6 +7,8 @@ My name is George Walker and I'm an aspiring software developer. I'm from Englan
 #### 🔧 Skills
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
